@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohit-Juyal
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Weeb Development
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
